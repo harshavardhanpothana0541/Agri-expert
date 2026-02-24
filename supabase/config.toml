@@ -1,0 +1,7 @@
+project_id = "suwmvtrlittsxilhngwm"
+
+[functions.analyze-crop]
+verify_jwt = false
+
+[functions.soil-moisture]
+verify_jwt = false
